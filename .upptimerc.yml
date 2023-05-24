@@ -1,26 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: openupm # Your GitHub username
+repo: upptime-openupmcn # Your Github repository name
 
+# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: "[CN] OpenUPM Website"
+    url: https://openupm.cn
+  - name: "[CN] OpenUPM Website Docs"
+    url: https://openupm.cn/docs/
+  - name: "[CN] OpenUPM Website Packages"
+    url: https://openupm.cn/packages/
+  - name: "[CN] OpenUPM Website Package Detail"
+    url: https://openupm.cn/packages/com.littlebigfun.addressable-importer/
+  - name: "[CN] OpenUPM API /site/info"
+    url: https://api.openupm.cn/site/info
+  - name: "[CN] OpenUPM API /packages/extra"
+    url: https://api.openupm.cn/packages/extra
+  - name: "[CN] OpenUPM API /packages/recent"
+    url: https://api.openupm.cn/packages/recent
+  - name: "[CN] OpenUPM API /feeds/updates/rss"
+    url: https://api.openupm.cn/feeds/updates/rss
+  - name: "[CN] OpenUPM API /packages/package-name"
+    url: https://api.openupm.cn/packages/com.littlebigfun.addressable-importer
+  - name: "[CN] OpenUPM Registry /-/all"
+    url: https://package.openupm.cn/-/all
+  - name: "[CN] OpenUPM Registry /package-name"
+    url: https://package.openupm.cn/com.littlebigfun.addressable-importer
+  - name: "[CN] OpenUPM Registry Fetch a Tarball"
+    url: https://package.openupm.cn/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Add your custom domain below, or remove the next line if you don't have a domain
+  # cname: demo.upptime.js.org
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  baseUrl: /upptime
+  logoUrl: https://github.com/openupm.png?size=128
+  name: OpenUPM Status
+  introTitle: "Uptime monitor and status page for OpenUPM"
+  introMessage: Powered by [@upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
