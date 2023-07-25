@@ -370,9 +370,9 @@
     "url": "https://package.openupm.cn/com.littlebigfun.addressable-importer/-/com.littlebigfun.addressable-importer-0.9.3.tgz",
     "icon": "https://icons.duckduckgo.com/ip3/package.openupm.cn.ico",
     "slug": "cn-open-upm-registry-fetch-a-tarball",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
@@ -382,6 +382,7 @@
     "timeMonth": 3250,
     "timeYear": 2997,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2023-07-21": 18,
       "2023-06-25": 18,
       "2023-05-28": 17
