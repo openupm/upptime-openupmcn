@@ -1,7 +1,7 @@
 url: https://api.openupm.cn/feeds/updates/rss
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-09T22:05:06.587Z
+status: up
+code: 200
+responseTime: 471
+lastUpdated: 2023-09-09T22:17:08.592Z
 startTime: 2023-05-24T15:04:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
