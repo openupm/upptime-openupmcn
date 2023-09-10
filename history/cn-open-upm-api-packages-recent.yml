@@ -1,7 +1,7 @@
 url: https://api.openupm.cn/packages/recent
-status: up
-code: 200
-responseTime: 190
-lastUpdated: 2023-09-09T23:58:46.458Z
+status: down
+code: 500
+responseTime: 274
+lastUpdated: 2023-09-10T22:16:14.175Z
 startTime: 2023-05-24T15:04:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
