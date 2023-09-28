@@ -6,9 +6,9 @@
     "slug": "cn-open-upm-website",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "96.41%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "97.09%",
+    "uptimeMonth": "96.43%",
     "uptimeYear": "98.58%",
     "time": 2344,
     "timeDay": 2721,
@@ -16,7 +16,7 @@
     "timeMonth": 2581,
     "timeYear": 2344,
     "dailyMinutesDown": {
-      "2023-09-28": 32,
+      "2023-09-28": 23,
       "2023-09-27": 22,
       "2023-09-26": 36,
       "2023-09-25": 74,
@@ -68,7 +68,7 @@
       "2023-08-04": 18,
       "2023-08-03": 63,
       "2023-08-02": 24,
-      "2023-08-01": 49
+      "2023-08-01": 67
     }
   },
   {
@@ -78,9 +78,9 @@
     "slug": "cn-open-upm-website-docs",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "96.95%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "96.97%",
     "uptimeYear": "98.57%",
     "time": 269,
     "timeDay": 261,
@@ -88,7 +88,7 @@
     "timeMonth": 257,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2023-09-28": 31,
+      "2023-09-28": 22,
       "2023-09-27": 22,
       "2023-09-26": 35,
       "2023-09-25": 56,
@@ -151,7 +151,8 @@
       "2023-07-17": 20,
       "2023-07-16": 35,
       "2023-07-15": 22,
-      "2023-07-14": 16
+      "2023-07-14": 16,
+      "2023-07-12": 16
     }
   },
   {
@@ -318,18 +319,19 @@
     "url": "https://api.openupm.cn/site/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.openupm.cn.ico",
     "slug": "cn-open-upm-api-site-info",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "98.51%",
-    "time": 2337,
-    "timeDay": 1392,
-    "timeWeek": 2507,
-    "timeMonth": 2981,
-    "timeYear": 2337,
+    "time": 2333,
+    "timeDay": 1467,
+    "timeWeek": 2447,
+    "timeMonth": 2966,
+    "timeYear": 2333,
     "dailyMinutesDown": {
+      "2023-09-28": 1,
       "2023-09-21": 63,
       "2023-09-20": 50,
       "2023-09-19": 76,
