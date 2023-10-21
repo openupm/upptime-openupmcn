@@ -1,7 +1,7 @@
 url: https://api.openupm.cn/site/info
-status: up
-code: 200
-responseTime: 1694
-lastUpdated: 2023-10-20T23:10:47.621Z
+status: down
+code: 500
+responseTime: 1691
+lastUpdated: 2023-10-21T13:16:31.086Z
 startTime: 2023-05-24T15:04:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
