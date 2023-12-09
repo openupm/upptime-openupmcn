@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.15%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.15%",
     "time": 2318,
     "timeDay": 2166,
     "timeWeek": 2032,
     "timeMonth": 2328,
     "timeYear": 2318,
     "dailyMinutesDown": {
-      "2023-12-08": 55,
+      "2023-12-08": 46,
       "2023-12-07": 24,
       "2023-12-06": 17,
       "2023-12-02": 99,
@@ -67,7 +67,7 @@
       "2023-09-16": 62,
       "2023-09-15": 47,
       "2023-09-14": 41,
-      "2023-09-13": 20
+      "2023-09-13": 51
     }
   },
   {
@@ -77,9 +77,9 @@
     "slug": "cn-open-upm-website-docs",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.15%",
     "time": 267,
     "timeDay": 301,
@@ -87,7 +87,7 @@
     "timeMonth": 279,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-12-08": 53,
+      "2023-12-08": 45,
       "2023-12-07": 23,
       "2023-12-06": 16,
       "2023-12-02": 83,
@@ -146,7 +146,8 @@
       "2023-08-29": 30,
       "2023-08-28": 31,
       "2023-08-27": 46,
-      "2023-08-26": 19
+      "2023-08-26": 19,
+      "2023-08-24": 18
     }
   },
   {
@@ -156,9 +157,9 @@
     "slug": "cn-open-upm-website-packages",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.09%",
     "time": 279,
     "timeDay": 242,
@@ -166,7 +167,7 @@
     "timeMonth": 234,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-12-08": 37,
+      "2023-12-08": 29,
       "2023-12-06": 16,
       "2023-12-02": 26,
       "2023-12-01": 22,
@@ -239,7 +240,8 @@
       "2023-07-14": 15,
       "2023-07-12": 15,
       "2023-07-11": 63,
-      "2023-07-10": 71
+      "2023-07-10": 71,
+      "2023-07-08": 28
     }
   },
   {
