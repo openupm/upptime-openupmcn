@@ -4,10 +4,10 @@
     "url": "https://openupm.cn",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.17%",
     "time": 2316,
@@ -16,6 +16,7 @@
     "timeMonth": 2318,
     "timeYear": 2316,
     "dailyMinutesDown": {
+      "2023-12-12": 2,
       "2023-12-11": 35,
       "2023-12-10": 30,
       "2023-12-09": 35,
@@ -68,7 +69,7 @@
       "2023-09-18": 95,
       "2023-09-17": 22,
       "2023-09-16": 62,
-      "2023-09-15": 30
+      "2023-09-15": 15
     }
   },
   {
@@ -76,18 +77,19 @@
     "url": "https://openupm.cn/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website-docs",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 267,
     "timeDay": 253,
     "timeWeek": 269,
     "timeMonth": 268,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2023-12-12": 2,
       "2023-12-11": 34,
       "2023-12-09": 19,
       "2023-12-08": 45,
@@ -147,8 +149,7 @@
       "2023-08-31": 34,
       "2023-08-30": 22,
       "2023-08-29": 30,
-      "2023-08-28": 31,
-      "2023-08-27": 46
+      "2023-08-28": 31
     }
   },
   {
@@ -156,18 +157,19 @@
     "url": "https://openupm.cn/packages/",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website-packages",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.36%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.13%",
     "time": 278,
     "timeDay": 225,
     "timeWeek": 233,
     "timeMonth": 229,
     "timeYear": 278,
     "dailyMinutesDown": {
+      "2023-12-12": 1,
       "2023-12-09": 18,
       "2023-12-08": 29,
       "2023-12-06": 16,
@@ -241,8 +243,7 @@
       "2023-07-15": 21,
       "2023-07-14": 15,
       "2023-07-12": 15,
-      "2023-07-11": 63,
-      "2023-07-10": 71
+      "2023-07-11": 63
     }
   },
   {
@@ -250,9 +251,9 @@
     "url": "https://openupm.cn/packages/com.littlebigfun.addressable-importer/",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website-package-detail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.15%",
@@ -262,6 +263,7 @@
     "timeMonth": 227,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2023-12-12": 1,
       "2023-12-09": 18,
       "2023-12-08": 29,
       "2023-12-06": 15,
@@ -535,9 +537,9 @@
     "slug": "cn-open-upm-registry-all",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.12%",
     "time": 9364,
     "timeDay": 9775,
@@ -545,7 +547,7 @@
     "timeMonth": 9682,
     "timeYear": 9364,
     "dailyMinutesDown": {
-      "2023-12-12": 41,
+      "2023-12-12": 34,
       "2023-12-06": 31,
       "2023-12-05": 53,
       "2023-12-04": 68,
