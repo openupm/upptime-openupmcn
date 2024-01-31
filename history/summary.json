@@ -13,7 +13,7 @@
     "time": 2296,
     "timeDay": 1872,
     "timeWeek": 2102,
-    "timeMonth": 2083,
+    "timeMonth": 2076,
     "timeYear": 2296,
     "dailyMinutesDown": {
       "2024-01-28": 22,
@@ -561,18 +561,19 @@
     "url": "https://package.openupm.cn/-/all",
     "icon": "https://icons.duckduckgo.com/ip3/package.openupm.cn.ico",
     "slug": "cn-open-upm-registry-all",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.26%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 9443,
     "timeDay": 9268,
     "timeWeek": 10427,
     "timeMonth": 9547,
     "timeYear": 9443,
     "dailyMinutesDown": {
+      "2024-01-31": 1,
       "2024-01-24": 75,
       "2024-01-18": 24,
       "2024-01-01": 34,
@@ -611,7 +612,7 @@
       "2023-09-11": 22,
       "2023-09-09": 48,
       "2023-09-06": 15,
-      "2023-08-29": 43
+      "2023-08-29": 26
     }
   },
   {
