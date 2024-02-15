@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.45%",
     "time": 2292,
     "timeDay": 2020,
     "timeWeek": 2122,
     "timeMonth": 2100,
     "timeYear": 2292,
     "dailyMinutesDown": {
-      "2024-02-14": 9,
       "2024-02-02": 22,
       "2024-01-28": 22,
       "2024-01-21": 19,
@@ -76,7 +75,8 @@
       "2023-09-25": 74,
       "2023-09-24": 36,
       "2023-09-23": 19,
-      "2023-09-22": 50
+      "2023-09-22": 50,
+      "2023-09-21": 17
     }
   },
   {
