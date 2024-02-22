@@ -6,17 +6,16 @@
     "slug": "cn-open-upm-website",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.47%",
     "time": 2293,
     "timeDay": 1787,
-    "timeWeek": 2338,
+    "timeWeek": 2412,
     "timeMonth": 2178,
     "timeYear": 2293,
     "dailyMinutesDown": {
-      "2024-02-21": 12,
       "2024-02-02": 22,
       "2024-01-28": 22,
       "2024-01-21": 19,
@@ -76,7 +75,8 @@
       "2023-09-25": 74,
       "2023-09-24": 36,
       "2023-09-23": 19,
-      "2023-09-22": 50
+      "2023-09-22": 50,
+      "2023-09-21": 17
     }
   },
   {
@@ -86,9 +86,9 @@
     "slug": "cn-open-upm-website-docs",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.38%",
     "time": 265,
     "timeDay": 222,
@@ -96,7 +96,6 @@
     "timeMonth": 248,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-02-21": 11,
       "2024-02-02": 22,
       "2024-01-21": 18,
       "2024-01-08": 19,
@@ -162,7 +161,7 @@
       "2023-09-12": 41,
       "2023-09-11": 33,
       "2023-09-10": 31,
-      "2023-09-05": 45
+      "2023-09-05": 65
     }
   },
   {
@@ -172,9 +171,9 @@
     "slug": "cn-open-upm-website-packages",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.36%",
     "time": 270,
     "timeDay": 229,
@@ -182,7 +181,6 @@
     "timeMonth": 219,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-02-21": 11,
       "2024-02-02": 21,
       "2024-01-21": 18,
       "2024-01-08": 18,
@@ -258,7 +256,8 @@
       "2023-07-27": 27,
       "2023-07-26": 17,
       "2023-07-25": 16,
-      "2023-07-24": 34
+      "2023-07-24": 34,
+      "2023-07-21": 17
     }
   },
   {
