@@ -4,18 +4,19 @@
     "url": "https://openupm.cn",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 2273,
     "timeDay": 2205,
     "timeWeek": 2081,
     "timeMonth": 2079,
     "timeYear": 2273,
     "dailyMinutesDown": {
+      "2024-05-14": 1,
       "2024-05-10": 19,
       "2024-05-06": 20,
       "2024-05-03": 20,
@@ -77,8 +78,7 @@
       "2023-10-03": 36,
       "2023-10-02": 21,
       "2023-09-30": 17,
-      "2023-09-28": 23,
-      "2023-09-27": 22
+      "2023-09-28": 23
     }
   },
   {
@@ -86,10 +86,10 @@
     "url": "https://openupm.cn/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/openupm.cn.ico",
     "slug": "cn-open-upm-website-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.53%",
     "time": 264,
@@ -98,6 +98,7 @@
     "timeMonth": 263,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2024-05-14": 1,
       "2024-05-10": 19,
       "2024-05-06": 20,
       "2024-05-03": 19,
@@ -167,7 +168,7 @@
       "2023-09-16": 61,
       "2023-09-15": 17,
       "2023-09-14": 41,
-      "2023-09-13": 64
+      "2023-09-13": 49
     }
   },
   {
@@ -581,11 +582,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/package.openupm.cn.ico",
     "slug": "cn-open-upm-registry-all",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 9518,
     "timeDay": 10355,
     "timeWeek": 9984,
