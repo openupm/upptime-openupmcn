@@ -13,7 +13,7 @@
     "time": 2269,
     "timeDay": 2431,
     "timeWeek": 2117,
-    "timeMonth": 2069,
+    "timeMonth": 2067,
     "timeYear": 2274,
     "dailyMinutesDown": {
       "2024-05-18": 70,
@@ -96,7 +96,7 @@
     "time": 263,
     "timeDay": 247,
     "timeWeek": 240,
-    "timeMonth": 250,
+    "timeMonth": 247,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2024-05-18": 70,
@@ -187,7 +187,7 @@
     "time": 265,
     "timeDay": 219,
     "timeWeek": 212,
-    "timeMonth": 216,
+    "timeMonth": 214,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2024-05-18": 70,
@@ -285,7 +285,7 @@
     "time": 256,
     "timeDay": 220,
     "timeWeek": 212,
-    "timeMonth": 220,
+    "timeMonth": 217,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2024-05-18": 70,
@@ -416,18 +416,19 @@
     "url": "https://api.openupm.cn/packages/extra",
     "icon": "https://icons.duckduckgo.com/ip3/api.openupm.cn.ico",
     "slug": "cn-open-upm-api-packages-extra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.45%",
     "time": 3087,
     "timeDay": 2543,
     "timeWeek": 2274,
     "timeMonth": 2241,
     "timeYear": 3098,
     "dailyMinutesDown": {
+      "2024-05-29": 2,
       "2024-04-20": 18,
       "2024-04-08": 19,
       "2024-03-28": 94,
@@ -468,7 +469,7 @@
       "2023-09-17": 19,
       "2023-09-16": 85,
       "2023-09-15": 162,
-      "2023-09-14": 352
+      "2023-09-14": 335
     }
   },
   {
@@ -578,18 +579,19 @@
     "url": "https://package.openupm.cn/-/all",
     "icon": "https://icons.duckduckgo.com/ip3/package.openupm.cn.ico",
     "slug": "cn-open-upm-registry-all",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 9527,
     "timeDay": 10288,
     "timeWeek": 9973,
     "timeMonth": 9942,
     "timeYear": 9546,
     "dailyMinutesDown": {
+      "2024-05-29": 1,
       "2024-04-20": 17,
       "2024-03-29": 27,
       "2024-03-28": 113,
@@ -631,8 +633,7 @@
       "2023-09-16": 88,
       "2023-09-15": 160,
       "2023-09-14": 355,
-      "2023-09-13": 117,
-      "2023-09-12": 45
+      "2023-09-13": 117
     }
   },
   {
